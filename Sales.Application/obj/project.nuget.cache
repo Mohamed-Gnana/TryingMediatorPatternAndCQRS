@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nNNJ1ekJMzADz6cUBaprh6exKMm5Xc4pJ5EaIcoed1MhDHoZr9OLitcPeWrxu/I4iWUF8JZ58QqoZ+enPsoytw==",
+  "success": true,
+  "projectFilePath": "F:\\Education\\PlauralSightCourses\\FortTeck\\TryingCQRSAndMediator\\Sales.Application\\Sales.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
